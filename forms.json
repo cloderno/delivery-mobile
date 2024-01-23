@@ -1,0 +1,8 @@
+[
+    {
+      "id": 1,
+      "name": "Форма А",
+      "type": "Text",
+      "required": true
+    }
+  ]
